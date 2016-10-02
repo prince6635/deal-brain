@@ -16,3 +16,9 @@ Subscribe customized deal and get alerts when it's available in any place.
 * [Regular Expressions](http://regexr.com/)
 
 ## References
+* https://github.com/cgiffard/node-simplecrawler
+* https://github.com/cheeriojs/cheerio
+
+## TODO
+* Configurations
+* Tests and JSLint

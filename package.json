@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/prince6635/deal-brain#readme",
   "dependencies": {
+    "cheerio": "^0.22.0",
+    "dotty": "0.0.2",
     "express": "^4.14.0",
     "simplecrawler": "^1.0.1"
   }
